@@ -131,6 +131,18 @@
   <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer">
     <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/>
   </a>
+    <a href="https://keras.io/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original-wordmark.svg" alt="keras" width="40" height="40"/>
+  </a>
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original-wordmark.svg" alt="pytorch" width="40" height="40"/>
+  </a>
+  <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/>
+  </a>
+  <a href="https://python.langchain.com/" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/100265456?s=200&v=4" alt="langchain" width="40" height="40"/>
+  </a>
 </p>
 
 
