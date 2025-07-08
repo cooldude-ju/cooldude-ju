@@ -14,7 +14,7 @@
 - 🧿 Actively working on improvements — stay tuned.
 - 💭 [Ask me](https://github.com/cooldude-ju/cooldude-ju/issues) about CS, Life and Beyond <br>
 - 📫 You can reach me at **somyalsinha@gmail.com**<br>
-- 🌐 My Personal Website **[_somyal.live_](https://amanliv.vercel.app/)** <img src="https://raw.githubusercontent.com/JuTechHub/JuTechHub/main/assets/icons/sos/sos.gif" alt="sos" width="20" height="15"> <br>
+- 🌐 My Personal Website **[_somyal.live_](https://amanliv.vercel.app/)** <img src="https://raw.githubusercontent.com/cooldude-ju/cooldude-ju/main/assets/icons/sos/sos.gif" alt="sos" width="20" height="15"> <br>
 
 
 <h3 align="left">Connect with me:</h3>
@@ -137,10 +137,10 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JuTechHub&show_icons=true&locale=en&layout=compact" alt="JuTechHub Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cooldude-ju&show_icons=true&locale=en&layout=compact" alt="JuTechHub Top Languages" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=JuTechHub&show_icons=true&locale=en" alt="JuTechHub GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=cooldude-ju&show_icons=true&locale=en" alt="JuTechHub GitHub Stats" />
     </td>
     <td>
       <a href="https://leetcode.com/u/somyalsinha24_05/">
@@ -152,5 +152,5 @@
 
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JuTechHub&theme=github-compact" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cooldude-ju&theme=github-compact" alt="Contribution Graph" />
 </p>
