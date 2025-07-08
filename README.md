@@ -14,7 +14,7 @@
 - 🧿 Actively working on improvements — stay tuned.
 - 💭 [Ask me](https://github.com/cooldude-ju/cooldude-ju/issues) about CS, Life and Beyond <br>
 - 📫 You can reach me at **somyalsinha@gmail.com**<br>
-- 🌐 My Personal Website **[_somyal.live_](https://amanliv.vercel.app/)** <img src="https://raw.githubusercontent.com/cooldude-ju/cooldude-ju/main/assets/icons/sos/sos.gif" alt="sos" width="20" height="15"> <br>
+- 🌐 My Personal Website **[_somyal.live_](https://amanliv.vercel.app/)** <img src="https://github.com/cooldude-ju/cooldude-ju/blob/main/sos.gif" alt="sos" width="20" height="15"> <br>
 
 
 <h3 align="left">Connect with me:</h3>
